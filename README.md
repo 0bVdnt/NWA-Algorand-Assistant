@@ -1,3 +1,3 @@
 ### Algorand Assistant
 
-    ` - An AI assistant for the Algorand Ecosystem `
+    - An AI assistant for the Algorand Ecosystem.
